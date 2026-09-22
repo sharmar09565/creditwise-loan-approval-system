@@ -3,3 +3,5 @@ __pycache__/
 .env
 venv/
 .venv/
+.virtual_documents/
+anaconda_projects/
